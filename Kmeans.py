@@ -3,13 +3,6 @@ import numpy as np
 import math as m
 import random
 import matplotlib.pyplot as plt
-import evaluate as eva
-
-# flame.txt
-# Jain_cluster=2.txt
-# Aggregation_cluster=7.txt
-# Spiral_cluster=3.txt
-# Pathbased_cluster=3.txt
 
 rootdir = os.path.dirname(__file__)
 
